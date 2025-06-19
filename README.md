@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <strong>TOOLS & FRAMEWORKS:</strong> Git | GitHub | Docker | React | Flutter | Flame
+  <strong>TOOLS & FRAMEWORKS:</strong> Git | GitHub | Docker | React | Flutter | Flame | Riverpod 
 </p>
 
 <hr/>
