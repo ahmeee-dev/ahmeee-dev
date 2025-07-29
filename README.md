@@ -14,12 +14,12 @@
 
 <p align="center">	
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,react,flutter" />
+    <img src="https://skillicons.dev/icons?i=spring,git,github,docker,react,flutter" />
   </a>
 </p>
 
 <p align="center">
-  <strong>TOOLS & FRAMEWORKS:</strong> Git | GitHub | Docker | React | Flutter | Flame | Riverpod 
+  <strong>TOOLS & FRAMEWORKS:</strong>Spring | Git | GitHub | Docker | React | Flutter | Flame | Riverpod 
 </p>
 
 <hr/>
